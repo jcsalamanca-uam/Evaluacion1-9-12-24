@@ -1,0 +1,10 @@
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\bin\Debug\Evaluacion.2.exe.config
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\bin\Debug\Evaluacion.2.exe
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\bin\Debug\Evaluacion.2.pdb
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion.2.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion._2.Form1.resources
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion._2.Properties.Resources.resources
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion.2.csproj.GenerateResource.cache
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion.2.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion.2.exe
+C:\Users\Julio\Documents\Evaluacion1\Evaluacion.2\Evaluacion.2\obj\Debug\Evaluacion.2.pdb
